@@ -72,7 +72,6 @@ C:\Users\vikash\Documents\C#Sharp\PluralsightProjects\Vidly\bin\System.Web.WebPa
 C:\Users\vikash\Documents\C#Sharp\PluralsightProjects\Vidly\bin\Newtonsoft.Json.xml
 C:\Users\vikash\Documents\C#Sharp\PluralsightProjects\Vidly\bin\Antlr3.Runtime.pdb
 C:\Users\vikash\Documents\C#Sharp\PluralsightProjects\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\vikash\Documents\C#Sharp\PluralsightProjects\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
 C:\Users\vikash\Documents\C#Sharp\PluralsightProjects\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
 C:\Users\vikash\Documents\C#Sharp\PluralsightProjects\Vidly\obj\Debug\Vidly.csproj.CopyComplete
 C:\Users\vikash\Documents\C#Sharp\PluralsightProjects\Vidly\obj\Debug\Vidly.dll
