@@ -76,3 +76,4 @@ C:\Users\vikash\Documents\C#Sharp\PluralsightProjects\Vidly\obj\Debug\Vidly.cspr
 C:\Users\vikash\Documents\C#Sharp\PluralsightProjects\Vidly\obj\Debug\Vidly.csproj.CopyComplete
 C:\Users\vikash\Documents\C#Sharp\PluralsightProjects\Vidly\obj\Debug\Vidly.dll
 C:\Users\vikash\Documents\C#Sharp\PluralsightProjects\Vidly\obj\Debug\Vidly.pdb
+C:\Users\vikash\Documents\C#Sharp\PluralsightProjects\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
